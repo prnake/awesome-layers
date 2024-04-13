@@ -22,6 +22,7 @@
 PATH=/opt/python3.8/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/bin
 PYTHONPATH=/opt/python
 LD_LIBRARY_PATH=/opt/lib
+PLAYWRIGHT_BROWSERS_PATH=/opt/playwright-browsers
 ```
 
 ## License
